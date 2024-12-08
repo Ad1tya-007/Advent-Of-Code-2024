@@ -16,3 +16,4 @@ Solutions to AOC 2024
 ## Note
 * These are not perfect solutions.
 * Also I made the code more readable.
+* I reused some old code for Day 4 and 5. That explains the fast time.
