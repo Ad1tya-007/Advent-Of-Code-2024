@@ -12,8 +12,9 @@ Solutions to AOC 2024
 | 6   | 00:02:37    | 98          | 41           | 00:05:06    | 32          | 69           |
 | 7   | 01:22:32    | 9663        | 0            | 01:24:51    | 8320        | 0            |
 | 8   | 00:02:38    | 53          | 48           | 00:04:44    | 27          | 74           |
+| 9   | 00:02:49    | 24          | 77           | 00:09:33    | 46          | 55           |
 
 ## Note
 * These are not perfect solutions.
-* Also I made the code more readable.
+* Also I made the code more readable. ( for some )
 * I reused some old code for Day 4 and 5. That explains the fast time.
