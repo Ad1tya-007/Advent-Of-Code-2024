@@ -1,9 +1,11 @@
 # Advent of Code 2024
+
 Solutions to AOC 2024
 
 ## Times
+
 | Day | Part 1 Time | Part 1 Rank | Part 1 Score | Part 2 Time | Part 2 Rank | Part 2 Score |
-|-----|-------------|-------------|--------------|-------------|-------------|--------------|
+| --- | ----------- | ----------- | ------------ | ----------- | ----------- | ------------ |
 | 1   | 00:02:02    | 304         | 0            | 00:03:06    | 197         | 0            |
 | 2   | 00:05:09    | 545         | 0            | 00:06:51    | 327         | 0            |
 | 3   | 00:01:33    | 130         | 0            | 00:02:37    | 52          | 49           |
@@ -13,8 +15,10 @@ Solutions to AOC 2024
 | 7   | 01:22:32    | 9663        | 0            | 01:24:51    | 8320        | 0            |
 | 8   | 00:02:38    | 53          | 48           | 00:04:44    | 27          | 74           |
 | 9   | 00:02:49    | 24          | 77           | 00:09:33    | 46          | 55           |
+| 10  | 00:05:33    | 362         | 0            | 00:07:26    | 296         | 0            |
 
 ## Note
-* These are not perfect solutions.
-* Also I made the code more readable. ( for some )
-* I reused some old code for Day 4 and 5. That explains the fast time.
+
+- These are not perfect solutions.
+- Also I made the code more readable. ( maybe not all )
+- I reused some old code for Day 4 and 5. That explains the fast time.
